@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Ahmad%20Alzerei!%20%F0%9F%91%8B&fontSize=45)
 
-![ProfileView](https://komarev.com/ghpvc/?username=Nedal-Esrar&label=Profile%20views&color=blueviolet)
-![committers.top badge](https://user-badge.committers.top/palestine_public/Nedal-Esrar.svg)
-![committers.top badge](https://user-badge.committers.top/palestine/Nedal-Esrar.svg)
+![ProfileView](https://komarev.com/ghpvc/?username=Ahmad-Alzerei&label=Profile%20views&color=blueviolet)
+![committers.top badge](https://user-badge.committers.top/palestine_public/Ahmad-Alzerei.svg)
+![committers.top badge](https://user-badge.committers.top/palestine/Ahmad-Alzerei.svg)
 
 🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
 📄 Know about my experiences **<a href="[https://docs.google.com/document/d/1h5Ns32ZC-zQXZbBvYFKVzAolik3elHWmk8LF9GVHJVk/edit?usp=sharing](https://docs.google.com/document/d/178TMwEmqQUtRfKLloHS6IqvqzISGw4b46VSUP6ECp3s/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1EYX1mvqVIpwg-HaupUGIJNPx6EdGk6cq_aw791GMYWVAsPVsPC-v6AWQ_aem_AcVGOOc1RTgFzXp46WVvk-n7Wo2dV00kGyUafLKYG39Wz4nztyeQizlO6UTPldIxDp631PvvDSXlKze54qme3d2C)" target="_blank">Resume</a>**. <br />
