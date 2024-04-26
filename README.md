@@ -5,7 +5,7 @@
 ![committers.top badge](https://user-badge.committers.top/palestine/Ahmad-Alzerei.svg)
 
 🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
-📄 Know about my experiences **<a href="[https://docs.google.com/document/d/1h5Ns32ZC-zQXZbBvYFKVzAolik3elHWmk8LF9GVHJVk/edit?usp=sharing](https://docs.google.com/document/d/178TMwEmqQUtRfKLloHS6IqvqzISGw4b46VSUP6ECp3s/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1EYX1mvqVIpwg-HaupUGIJNPx6EdGk6cq_aw791GMYWVAsPVsPC-v6AWQ_aem_AcVGOOc1RTgFzXp46WVvk-n7Wo2dV00kGyUafLKYG39Wz4nztyeQizlO6UTPldIxDp631PvvDSXlKze54qme3d2C)" target="_blank">Resume</a>**. <br />
+📄 Know about my experiences **<a href="[https://docs.google.com/document/d/178TMwEmqQUtRfKLloHS6IqvqzISGw4b46VSUP6ECp3s/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0Z1m_gIQHQBRu-_u3r1DGE5f1_CB0tjGYiC-hsr6rUT8vIGrcgbiQqJYk_aem_AcUABMJmywkXZ2yk9Sgw8Up7HaWItUJN404eTgm9f-9hpjX1ANlsBZG3BhBYdnOcR1n01aDK0Bel7BmRE0vNaJft]" target="_blank">Resume</a>**. <br />
 📩 Reach me on: [**Email**](mailto://ahmadzerie56@gmail.com) <br />
 
 <h2>Connect with me 📨</h2>
